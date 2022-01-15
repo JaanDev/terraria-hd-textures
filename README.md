@@ -7,7 +7,7 @@ Converts Terraria textures to HD resolution. Original by sullerandras, rescripte
 3. Get the zipped texture pack :)
 
  # Possible Issues
-Idk tell me in my discord pls :P
+Idk tell me in my discord pls if you find some :P
  
  # Contacts
  Jaan#2897
